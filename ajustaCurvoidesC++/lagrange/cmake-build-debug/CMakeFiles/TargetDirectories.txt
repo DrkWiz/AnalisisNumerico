@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/analmat/ajust curv/lagrange/cmake-build-debug/CMakeFiles/lagrange.dir
+C:/Users/pc/CLionProjects/analmat/ajust curv/lagrange/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/analmat/ajust curv/lagrange/cmake-build-debug/CMakeFiles/rebuild_cache.dir
