@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/analmat/ajust curv/trazadoracubica/cmake-build-debug/CMakeFiles/trazadoracubica.dir
+C:/Users/pc/CLionProjects/analmat/ajust curv/trazadoracubica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/analmat/ajust curv/trazadoracubica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
