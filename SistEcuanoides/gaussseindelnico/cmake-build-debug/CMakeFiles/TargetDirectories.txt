@@ -1,0 +1,3 @@
+/home/francisco/Escritorio/UCC/analisis numerico/analmat/sis ecu/gaussseindelnico/cmake-build-debug/CMakeFiles/gaussseindelnico.dir
+/home/francisco/Escritorio/UCC/analisis numerico/analmat/sis ecu/gaussseindelnico/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/francisco/Escritorio/UCC/analisis numerico/analmat/sis ecu/gaussseindelnico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
