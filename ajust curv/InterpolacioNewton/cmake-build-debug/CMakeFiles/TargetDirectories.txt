@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/analmat/ajust curv/InterpolacioNewton/cmake-build-debug/CMakeFiles/InterpolacioNewton.dir
+C:/Users/pc/CLionProjects/analmat/ajust curv/InterpolacioNewton/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/analmat/ajust curv/InterpolacioNewton/cmake-build-debug/CMakeFiles/rebuild_cache.dir

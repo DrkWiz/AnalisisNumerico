@@ -1,0 +1,14 @@
+# ninja log v5
+1	622	7159144147971102	CMakeFiles/RegreMinCuadr.dir/main.cpp.obj	af4a13f94cd1908f
+624	924	7159144150230804	RegreMinCuadr.exe	ba1a4ecfab504e5c
+10	308	7159170815292287	build.ninja	7b296821f1bb4322
+3	545	7159170821540826	CMakeFiles/RegreMinCuadr.dir/main.cpp.obj	af4a13f94cd1908f
+545	733	7159170823397706	RegreMinCuadr.exe	ba1a4ecfab504e5c
+5	619	7159171741914051	CMakeFiles/RegreMinCuadr.dir/main.cpp.obj	af4a13f94cd1908f
+620	745	7159171743154055	RegreMinCuadr.exe	ba1a4ecfab504e5c
+3	656	7159173168299516	CMakeFiles/RegreMinCuadr.dir/main.cpp.obj	af4a13f94cd1908f
+657	785	7159173169549511	RegreMinCuadr.exe	ba1a4ecfab504e5c
+4	474	7159191743874842	CMakeFiles/RegreMinCuadr.dir/main.cpp.obj	af4a13f94cd1908f
+475	585	7159191744964838	RegreMinCuadr.exe	ba1a4ecfab504e5c
+4	437	7159193139956302	CMakeFiles/RegreMinCuadr.dir/main.cpp.obj	af4a13f94cd1908f
+437	546	7159193141016600	RegreMinCuadr.exe	ba1a4ecfab504e5c

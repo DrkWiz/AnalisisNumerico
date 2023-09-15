@@ -1,0 +1,25 @@
+# ninja log v5
+0	1448	7155809652847689	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+1450	1624	7155809654677689	gaussTriangulacion.exe	c134fe41ef0ddbd0
+4	841	7155811225262271	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+841	983	7155811226642295	gaussTriangulacion.exe	c134fe41ef0ddbd0
+3	621	7155813701324300	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+622	771	7155813702804308	gaussTriangulacion.exe	c134fe41ef0ddbd0
+3	498	7155815142512453	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+498	608	7155815143576151	gaussTriangulacion.exe	c134fe41ef0ddbd0
+3	587	7155816455194711	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+587	724	7155816456534701	gaussTriangulacion.exe	c134fe41ef0ddbd0
+4	857	7155833660685956	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+858	994	7155833662015959	gaussTriangulacion.exe	c134fe41ef0ddbd0
+4	633	7155834717166887	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+634	754	7155834718306883	gaussTriangulacion.exe	c134fe41ef0ddbd0
+4	1524	7155836893321198	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+1525	1664	7155836894661181	gaussTriangulacion.exe	c134fe41ef0ddbd0
+4	1361	7155837110171553	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+1361	1474	7155837111281878	gaussTriangulacion.exe	c134fe41ef0ddbd0
+4	1084	7155838720641613	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+1085	1244	7155838722141615	gaussTriangulacion.exe	c134fe41ef0ddbd0
+4	532	7155838946487318	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+533	644	7155838947597305	gaussTriangulacion.exe	c134fe41ef0ddbd0
+3	1048	7157117647804197	CMakeFiles/gaussTriangulacion.dir/main.cpp.obj	a977286965fd6408
+1048	1176	7157117649054188	gaussTriangulacion.exe	c134fe41ef0ddbd0

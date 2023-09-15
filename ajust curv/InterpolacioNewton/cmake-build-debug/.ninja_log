@@ -1,0 +1,13 @@
+# ninja log v5
+3	735	7159962102203340	CMakeFiles/InterpolacioNewton.dir/main.cpp.obj	5c2e11a3252bdba3
+736	868	7159962103513639	InterpolacioNewton.exe	a416fb21c69ea884
+3	1119	7164137852987817	CMakeFiles/InterpolacioNewton.dir/main.cpp.obj	cac88e1e17a825e9
+1120	1312	7164137854813591	InterpolacioNewton.exe	a416fb21c69ea884
+4	1492	7164172542536736	CMakeFiles/InterpolacioNewton.dir/main.cpp.obj	cac88e1e17a825e9
+1493	1849	7164172546088721	InterpolacioNewton.exe	a416fb21c69ea884
+5	1017	7164209834613832	CMakeFiles/InterpolacioNewton.dir/main.cpp.obj	cac88e1e17a825e9
+1017	1205	7164209836484669	InterpolacioNewton.exe	a416fb21c69ea884
+3	803	7164211426479718	CMakeFiles/InterpolacioNewton.dir/main.cpp.obj	cac88e1e17a825e9
+803	948	7164211427912873	InterpolacioNewton.exe	a416fb21c69ea884
+5	856	7164212370867602	CMakeFiles/InterpolacioNewton.dir/main.cpp.obj	cac88e1e17a825e9
+857	1020	7164212372465971	InterpolacioNewton.exe	a416fb21c69ea884
